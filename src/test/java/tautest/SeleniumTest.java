@@ -38,6 +38,7 @@ public class SeleniumTest {
         textBox.sendKeys(searchText, Keys.ENTER);
 //        assertEquals(searchText, textBox.getText());
      //   textBox.sendKeys(Keys.ENTER);
+        //commit from feature branch to master branch
 
     }
 
