@@ -37,7 +37,7 @@ public class SeleniumTest {
         WebElement textBox = webDriver.findElement(By.id("APjFqb"));
         textBox.sendKeys(searchText, Keys.ENTER);
 //        assertEquals(searchText, textBox.getText());
-        textBox.sendKeys(Keys.ENTER);
+     //   textBox.sendKeys(Keys.ENTER);
 
     }
 
